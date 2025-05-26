@@ -29,7 +29,9 @@
 ## Project setup
 
 ```bash
-$ npm install
+$ npm install //Inicia el proyecto de nodejs
+$ docker compose up -d // Inicia la ejecucion de la bd de postgres
+
 ```
 
 ## Compile and run the project
