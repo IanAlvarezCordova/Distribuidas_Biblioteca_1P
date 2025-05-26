@@ -30,6 +30,7 @@
 
 ```bash
 $ npm install //Inicia el proyecto de nodejs
+$ npm run start
 $ docker compose up -d // Inicia la ejecucion de la bd de postgres
 
 ```
