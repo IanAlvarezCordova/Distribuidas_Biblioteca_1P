@@ -5,4 +5,4 @@ POSTGRES_PASSWORD=123
 POSTGRES_DATABASE=bd-biblioteca
 POSTGRES_SSL=false
 JWT_SECRET= "987654321"
-#renombrar el archivo .env.example a .env
+#renombrar este archivo ".env.example" a ".env"
